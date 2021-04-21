@@ -1,0 +1,12 @@
+github.com/dgrijalva/jwt-go v3.2.0+incompatible h1:7qlOGliEKZXTDg6OTjfoBKDXWrumCAMpl/TFQ4/5kLM=
+github.com/dgrijalva/jwt-go v3.2.0+incompatible/go.mod h1:E3ru+11k8xSBh+hMPgOLZmtrrCbhqsmaPHjLKYnJCaQ=
+github.com/nmcclain/asn1-ber v0.0.0-20170104154839-2661553a0484 h1:D9EvfGQvlkKaDr2CRKN++7HbSXbefUNDrPq60T+g24s=
+github.com/nmcclain/asn1-ber v0.0.0-20170104154839-2661553a0484/go.mod h1:O1EljZ+oHprtxDDPHiMWVo/5dBT6PlvWX5PSwj80aBA=
+github.com/nmcclain/ldap v0.0.0-20191021200707-3b3b69a7e9e3 h1:NNis9uuNpG5h97Dvxxo53Scg02qBg+3Nfabg6zjFGu8=
+github.com/nmcclain/ldap v0.0.0-20191021200707-3b3b69a7e9e3/go.mod h1:YtrVB1/v9Td9SyjXpjYVmbdKgj9B0nPTBsdGUxy0i8U=
+github.com/rs/cors v1.7.0 h1:+88SsELBHx5r+hZ8TCkggzSstaWNbDvThkVK8H6f9ik=
+github.com/rs/cors v1.7.0/go.mod h1:gFx+x8UowdsKA9AchylcLynDq+nNFfI8FkUZdN/jGCU=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v2 v2.3.0 h1:clyUAQHOM3G0M3f5vQj7LuJrETvjVot3Z5el9nffUtU=
+gopkg.in/yaml.v2 v2.3.0/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=

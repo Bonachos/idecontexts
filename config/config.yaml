@@ -1,0 +1,49 @@
+admins:
+- id: admin
+- id: jpmenezes
+groups:
+- name: Teste Admins
+  description: Teste - Administradores
+  enabled: true
+  users:
+  - id: jpmenezes
+  - id: jpmenezes@gmail.com
+- name: Teste Users
+  description: Teste - Utilizadores
+  enabled: true
+  users:
+  - id: jpmen
+- name: ent Admins
+  description: ent - Administradores
+  enabled: true
+  users: []
+- name: ent Users
+  description: ent - Utilizadores
+  enabled: true
+  users:
+  - id: jpmenezes
+- name: GRA Admins
+  description: GRA - Administradores
+  enabled: true
+  users:
+  - id: user
+- name: GRA Users
+  description: GRA - Utilizadores
+  enabled: true
+  users: []
+- name: dra Admins
+  description: dra - Administradores
+  enabled: true
+  users: []
+- name: dra Users
+  description: dra - Utilizadores
+  enabled: true
+  users: []
+- name: default Admins
+  description: DEFAULT - Administradores
+  enabled: true
+  users: []
+- name: default Users
+  description: DEFAULT - Utilizadores
+  enabled: true
+  users: []
